@@ -1,2 +1,3 @@
-# SEDissertationProject
-My BSc Final Year Project
+# SE Dissertation Project
+All Rights Reserved.
+
